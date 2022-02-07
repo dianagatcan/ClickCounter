@@ -1,0 +1,19 @@
+.button {
+    font-size: 90px;
+    width: 150px;
+
+    background-color: cadetblue;
+}
+
+.button:hover {
+    background-color: #cfd8dc;
+}
+
+.counter {
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    height: 40%;
+}
